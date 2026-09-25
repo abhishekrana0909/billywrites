@@ -1,0 +1,10 @@
+[server]
+# File save karte hi app apne aap refresh ho jayegi
+runOnSave = true
+
+[theme]
+base = "light"
+primaryColor = "#111111"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F5F3"
+textColor = "#111111"
